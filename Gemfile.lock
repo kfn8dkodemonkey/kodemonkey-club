@@ -10,7 +10,7 @@ GEM
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
-      jekyll-watch (~> 1.1)
+      jekyll-watch (~> 1.5.1)
       kramdown (~> 1.14)
       liquid (~> 4.0)
       mercenary (~> 0.3.3)
