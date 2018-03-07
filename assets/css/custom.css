@@ -54,10 +54,10 @@ img
 {
     background-color: #ecf0f1;
 }
-.container
+/*.container
 {
     width: 100%;
-}
+}*/
 .after-slide, .share-icons {
     background: url(../img/00.png);
     padding-bottom: 60px;
@@ -378,6 +378,16 @@ FOOTER
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+.footer h2{
+    font-weight: normal;
+    font-family: 'Marck Script', cursive;
+    color: #E7F0FF;
+    font-size: 45px;
+    margin-top: 0;
+    margin-bottom: -15px;
+ }
+
 .name
 {
     font-family: 'Coda', cursive;
@@ -387,7 +397,7 @@ FOOTER
 .copyright
 {
     text-align:center;
-    padding:30px;
+    padding: 18px;
     font-size: 14px;
 }
 /*---------------------------------------------------------------------------------------------------
