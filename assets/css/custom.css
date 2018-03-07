@@ -54,10 +54,10 @@ img
 {
     background-color: #ecf0f1;
 }
-/*.container
+.container
 {
     width: 100%;
-}*/
+}
 .after-slide, .share-icons {
     background: url(../img/00.png);
     padding-bottom: 60px;
